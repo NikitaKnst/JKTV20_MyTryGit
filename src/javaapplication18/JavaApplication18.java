@@ -18,7 +18,7 @@ public class JavaApplication18 {
         // TODO code application logic here
         System.out.println("MyFirstTryGit");
                 System.out.println("MySecondTryGit");
-
+                  System.out.println("MyThree");
     }
     
 }
